@@ -2,9 +2,11 @@ Hello 大家好！我是ghhuang，这是我的个人网站。
 
 我基于go-proxy-bing、NewBingGoGo-Web项目搬运了微软的new bing, 你可以在以下的网站使用。因为项目不定期更新，我这边也要同步更新，所以大家记住newbing.ghhuang482.top就行
 
-微信内无法打开，请复制new bing地址到手机浏览器打开。打开可能会慢一点，因为超过10分钟没人使用服务，后台服务器就会休眠，等一会就好
+微信内无法打开，请复制new bing地址到手机浏览器打开。
 
-[我的的new bing](https://ghhuang482v187.zeabur.app)
+打开可能会慢一点，后台服务器就会休眠，等一会就好
+
+[我的new bing](https://ghhuang482v187.zeabur.app)
 
 [大佬的new bing](https://bing.vcanbb.top)
 
