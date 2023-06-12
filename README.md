@@ -1,6 +1,6 @@
 Hello 大家好！我是ghhuang，这是我的个人网站。
 
-我基于[go-proxy-bing 项目地址](https://github.com/adams549659584/go-proxy-bingai)、[NewBingGoGo-Web 项目地址](https://github.com/jianjianai/NewBingGoGo-Web)项目搬运了微软的new bing, 你可以在以下的网站使用。因为项目不定期更新，我这边也要同步更新，所以大家记住[newbing.ghhuang482.top](https://newbing.ghhuang482.top)就行
+我基于[go-proxy-bing](https://github.com/adams549659584/go-proxy-bingai)、[NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web)搬运了微软的new bing, 你可以在以下的网站使用。因为项目不定期更新，我这边也要同步更新，所以大家记住[newbing.ghhuang482.top](https://newbing.ghhuang482.top)就行
 
 微信内无法打开，请复制new bing地址到手机浏览器打开。
 
