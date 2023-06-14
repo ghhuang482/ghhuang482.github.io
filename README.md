@@ -8,9 +8,7 @@ Hello 大家好！我是ghhuang，这是我的个人网站。
 
 [我的new bing](https://ghhuang482v187.zeabur.app)
 
-[大佬的new bing](https://bing.vcanbb.top)
-
-[NewBingGoGo-Web项目，前面有问题时可以试试这个](https://newbinggogo.ghhuang482.top)
+[NewBingGoGo-Web，前面有问题时可以试试这个](https://newbinggogo.ghhuang482.top)
 
 # gpt使用经验
 
