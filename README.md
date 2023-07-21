@@ -6,7 +6,7 @@ Hello 大家好！我是ghhuang，这是我的个人网站。
 
 打开可能会慢一点，后台服务器就会休眠，等一会就好
 
-[半失效，1.要用手机端可用，2.【服务选择】->【本机】](https://ghhuang482v187.zeabur.app)
+[半失效，1.要用手机端可用，2.【服务选择】->【本机】](https://ghhuang483.zeabur.app)
 
 [失效](https://newbinggogo.ghhuang482.top)
 
