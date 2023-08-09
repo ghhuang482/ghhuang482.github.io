@@ -6,7 +6,7 @@ Hello 大家好！我是ghhuang，这是我的个人网站。
 
 打开可能会慢一点，后台服务器就会休眠，等一会就好
 
-[binggo](https://huggingface.co/spaces/ghhuang/bingo2)
+[binggo](https://huggingface.co/spaces/ghhuang/bingo3)
 
 
 # gpt使用经验
