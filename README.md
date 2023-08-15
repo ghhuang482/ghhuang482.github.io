@@ -4,7 +4,7 @@ Hello 大家好！我是ghhuang，这是我的个人网站。
 
 [我的binggo](https://newbing2.ghhuang482.top/)
 [大佬的binggo](https://bing.github1s.tk/)
-
+有问题就刷新网页，一个不行用另一个，实在还是不行，就是微软又封了这个项目
 
 # gpt使用经验
 
