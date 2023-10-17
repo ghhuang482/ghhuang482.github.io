@@ -1,10 +1,11 @@
-Hello 大家好！我是ghhuang，这是我的个人网站。
+Hello 大家好！我是ghhuang，这是我的个人网站，在这里我搬运了大佬们可以用的newbing项目
 
-我基于[binggo](https://github.com/weaigc/bingo/)搬运了微软的new bing, 你可以在以下的网站使用。因为项目不定期更新，我这边也要同步更新，所以大家记住[newbing.ghhuang482.top](https://newbing.ghhuang482.top)就行
 
-[我的binggo](https://huggingface.co/spaces/ghhuang/bingo4)
+[我的binggo](https://newbing1.ghhuang482.top/)
 
 [大佬的binggo](https://bing.github1s.tk/)
+
+[大佬的binggo](https://nbing.eu.org/)
 
 有问题就刷新网页，一个不行用另一个，实在还是不行，就是微软又封了这个项目
 
